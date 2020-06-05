@@ -1,9 +1,9 @@
-# Continents and Cities
+# Desert Island Playlist
 
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | LEARN JAVA: 4. Conditionals and Control Flow
+[CODE]CADEMY PRO | LEARN JAVA: 5. Arrays and ArrayLists
 
 ### Description of the project by [CODE]CADEMY PRO
 Planet Earth is a magical place. Let’s practice the Java switch statement that you learned about.
