@@ -3,7 +3,7 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | LEARN JAVA: 04 Conditionals and Control Flow
+[CODE]CADEMY PRO | LEARN JAVA: 4 Conditionals and Control Flow
 
 ### Description of the project by [CODE]CADEMY PRO
 Let’s combine a few of the concepts that you have learned so far: conditionals, Boolean expressions, and arithmethic expressions.
@@ -30,5 +30,4 @@ Completed
 02/06/2020
 
 #### Last update (README.md)
-02/06/2020
- 
+05/06/2020

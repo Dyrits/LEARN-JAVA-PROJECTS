@@ -6,7 +6,7 @@
 [CODE]CADEMY PRO | LEARN JAVA: 4. Conditionals and Control Flow
 
 ### Description of the project by [CODE]CADEMY PRO
-Planet Earth is a magical place. Let’s practice the Java switch statement that you learned about.
+Planet Earth is a magical place. Letï¿½s practice the Java switch statement that you learned about.
 
 Write a **Continents.java** program that will print out a continent and the largest city in that continent, based on the value of an integer.
 
@@ -26,5 +26,5 @@ Completed
 02/06/2020
 
 #### Last update (README.md)
-02/06/2020
+05/06/2020
  

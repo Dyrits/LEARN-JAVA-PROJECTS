@@ -3,7 +3,7 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | LEARN JAVA: 03. Object-Oriented Java 
+[CODE]CADEMY PRO | LEARN JAVA: 3. Object-Oriented Java 
 
 ### Description of the project by [CODE]CADEMY PRO
 In this project, you will use classes, methods, and objects to create a simple arithmetic calculator. The calculator will be able to:  
@@ -15,7 +15,7 @@ In this project, you will use classes, methods, and objects to create a simple a
 
 The instructions provided are general guidelines. Upon completion of the project, feel free to explore more in the learning environment.
 
-**Important**: Moving forward, all projects will require that you define the `main` method manually. When you click the “Save” button below, an attempt to run your Java code is made. However, Java will return an error if you attempt to run a Java program without first defining a `main` method. If you encounter such an error, do not worry, you can define the `main` method ahead of time in order to avoid seeing the error.
+**Important**: Moving forward, all projects will require that you define the `main` method manually. When you click the ï¿½Saveï¿½ button below, an attempt to run your Java code is made. However, Java will return an error if you attempt to run a Java program without first defining a `main` method. If you encounter such an error, do not worry, you can define the `main` method ahead of time in order to avoid seeing the error.
 
 ### Technologies | Libraries | Frameworks | Tools  
 - Java
@@ -30,5 +30,5 @@ Completed
 30/05/2020
 
 #### Last update (README.md)
-30/05/2020
+05/06/2020
  

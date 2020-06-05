@@ -3,7 +3,7 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | LEARN JAVA: 01. Hello World  
+[CODE]CADEMY PRO | LEARN JAVA: 1. Hello World  
 
 ### Description of the project by [CODE]CADEMY PRO
 Introduce yourself to users and plant a tree for them!
@@ -21,4 +21,4 @@ Completed
 28/05/2020
 
 #### Last update (README.md)
-28/05/2020
+05/06/2020

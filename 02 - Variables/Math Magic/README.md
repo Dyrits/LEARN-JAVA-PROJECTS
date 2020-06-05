@@ -3,7 +3,7 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | LEARN JAVA: 02. Variables 
+[CODE]CADEMY PRO | LEARN JAVA: 2. Variables 
 
 ### Description of the project by [CODE]CADEMY PRO
 In this project, you will become a mathemagician and write a small program that performs a mathematical magic trick! It will involve performing arithmetic operations on an integer that you choose.
@@ -24,5 +24,5 @@ Completed
 29/05/2020
 
 #### Last update (README.md)
-29/05/2020
+05/06/2020
  
