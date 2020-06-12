@@ -13,9 +13,12 @@ class DNA {
         System.out.println("The length of the DNA Strand is: " + dna.length());
         int indexATG = dna.indexOf("ATG");
         int indexTGA = dna.lastIndexOf("TGA");
-        if (indexATG != -1 && indexTGA != -1 && (indexTGA - indexATG) % 3 == 0) {
-            String protein = dna.substring(indexATG + 3, indexTGA);
+        if (indexATG != -1 && indexTGA != -1 &&
+                (indexTGA - indexATG) % 3 == 0) {
+            String protein = dna.substring(indexATG, indexTGA + 3);
             System.out.println("Protein found: " + protein);
-        } else { System.out.println("No protein..."); };
+        } else {
+            System.out.println("No protein...");
+        };
     }
 }
