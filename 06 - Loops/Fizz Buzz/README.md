@@ -3,7 +3,7 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | LEARN JAVA: 5. Loops
+[CODE]CADEMY PRO | LEARN JAVA: 6. Loops
 
 ### Description of the project by [CODE]CADEMY PRO
 [Fizz Buzz](https://en.wikipedia.org/wiki/Fizz_buzz) is a common developer interview question; so common it’s almost cliché!
@@ -34,5 +34,5 @@ Completed
 11/06/2020
 
 #### Last update (README.md)
-11/06/2020
+16/06/2020
  

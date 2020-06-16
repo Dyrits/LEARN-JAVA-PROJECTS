@@ -3,7 +3,7 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | LEARN JAVA: 5. Loops
+[CODE]CADEMY PRO | LEARN JAVA: 6. Loops
 
 ### Description of the project by [CODE]CADEMY PRO
 Finding prime numbers is a common technical challenge in programming interviews.

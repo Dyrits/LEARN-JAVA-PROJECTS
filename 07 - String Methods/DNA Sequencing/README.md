@@ -3,7 +3,7 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | LEARN JAVA: 5. Loops
+[CODE]CADEMY PRO | LEARN JAVA: 7. String Methods
 
 ### Description of the project by [CODE]CADEMY PRO
 The genome of an organism stores all the genetic information necessary to build and maintain that organism. It is an organism’s complete set of DNA.
@@ -42,5 +42,5 @@ Completed
 12/2020``
 
 #### Last update (README.md)
-12/06/2020
+16/06/2020
  
