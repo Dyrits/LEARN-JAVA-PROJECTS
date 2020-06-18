@@ -1,6 +1,7 @@
 package codecademy.languageinheritance;
 
 public class Language {
+
     protected String name;
     protected int numSpeakers;
     protected String regionsSpoken;
